@@ -1,0 +1,73 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    background-color: gray;
+    /* flex-wrap: wrap; */
+}
+
+img{
+    margin-right: 20px;
+}
+
+.img1{
+    float: left;
+}
+
+.img2{
+    float: left;
+    
+}
+
+ .segundo div{
+    margin: 60px;
+
+} 
+
+
+
+.primero{
+    width: 30%;
+    margin: 10px;
+    padding: 50px;
+    
+    
+}
+
+.primero p{
+    
+   margin-bottom: 100px;
+    
+}
+.segundo{
+    width: 50%;
+    margin: 10px 0px;
+    padding: 0 70px;
+    
+}
+h2{
+    margin-bottom: 10px;
+}
+
+button{
+    width: 60px;
+    height: 35px;
+    background-color: rgba(202, 202, 202, 0.88);
+    border: 0;
+    
+}
+
+button i{
+    color: white;
+}
+
+
+button:hover{
+    background-color: black;
+}
+
+
